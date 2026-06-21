@@ -1,4 +1,4 @@
-# Handwritten Alphabet Recognition
+# Handwritten Alphabet Character Recognition
 
 A CNN that recognizes handwritten English alphabets (A–Z) from 28×28 grayscale images, trained on the **A-Z Handwritten Alphabets** dataset, with a custom OpenCV pipeline to recognize letters from real photographed images.
 
